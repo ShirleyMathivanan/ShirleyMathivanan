@@ -19,8 +19,8 @@ and Data Structures & Algorithms to build scalable, production-ready systems.
 
 ## 🛠️ Skills & Tools
 
-**Languages:** Python, SQL (learning), R  
-**ML & DL:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy  
+**Languages:** Python, SQL (learning)
+**ML & DL:** TensorFlow, Scikit-learn, Pandas, NumPy  
 **Visualization:** Tableau, Power BI, Excel, Matplotlib  
 **Tools:** Git, GitHub, Jupyter Notebook, VS Code  
 **Concepts:** Object-Oriented Programming, Machine Learning Pipelines,
